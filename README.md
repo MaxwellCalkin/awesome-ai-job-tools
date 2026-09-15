@@ -108,6 +108,7 @@ Projects you can self-host or contribute to:
 - [Resumake](https://github.com/saadq/resumake.io) — Resume generator
 - [JSON Resume](https://github.com/jsonresume) — Standardized resume format
 - [CoverCraft AI](https://github.com/MaxwellCalkin/coverletter-ai) — AI cover letter generator
+- [Keel](https://github.com/KeelDev-tech/keel) — Open-core (Apache-2.0) job-application autopilot with a truthfulness contract: it only ever claims what you tell it is true.
 
 ## Contributing
 
