@@ -59,6 +59,7 @@ Tools to check how well your resume matches a job description before you apply.
 | [Pramp](https://www.pramp.com/) | Free | Peer-to-peer mock interviews |
 | [Interviewing.io](https://interviewing.io/) | Free | Anonymous technical interviews |
 | [LeetCode](https://leetcode.com/) | Free tier | Coding interview practice |
+| [Luna Interview](https://lunainterview.xyz/) | 24h free trial, then $137/yr | Interview copilot side panel from your own notes |
 | [Exponent](https://www.tryexponent.com/) | $149/yr | PM, engineering, design interviews |
 
 ## Job Search & Matching
