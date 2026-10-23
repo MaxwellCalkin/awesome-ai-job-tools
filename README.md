@@ -36,6 +36,7 @@ Finding a job is hard. AI tools can help you apply smarter, not harder. This lis
 | [FlowCV](https://flowcv.com/) | Free tier | Clean design, ATS-friendly |
 | [Standard Resume](https://standardresume.co/) | Free tier | Minimalist, developer-friendly |
 | [Reactive Resume](https://rxresu.me/) | Free | Open source, self-hostable |
+| [JobEmerge](https://www.jobemerge.work/) | Free tier + one-time plans | Job-fit analysis, 19-language translation, Markdown editor |
 | [Resume Worded](https://resumeworded.com/) | $49/mo | AI-powered content suggestions |
 | [Jobscan](https://www.jobscan.co/) | Free tier | ATS keyword optimization |
 
