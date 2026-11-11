@@ -38,6 +38,7 @@ Finding a job is hard. AI tools can help you apply smarter, not harder. This lis
 | [Reactive Resume](https://rxresu.me/) | Free | Open source, self-hostable |
 | [Resume Worded](https://resumeworded.com/) | $49/mo | AI-powered content suggestions |
 | [Jobscan](https://www.jobscan.co/) | Free tier | ATS keyword optimization |
+| [OffLadder CV](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk) | Free tier | Chrome side panel: tailors your CV to the open job post, fills forms you submit |
 
 ## ATS Tools
 
